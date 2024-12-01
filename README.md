@@ -1,1 +1,1 @@
-Initial content
+This is the project overview
